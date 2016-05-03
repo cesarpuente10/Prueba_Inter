@@ -29,6 +29,7 @@ public class Game
         parser = new Parser();
     }
 
+//algo mas....
     /**
      * Create all the rooms and link their exits together.
      */
